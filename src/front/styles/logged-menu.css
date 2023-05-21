@@ -1,0 +1,22 @@
+.btn-logged {
+  background-color: #6d7e9a;
+  border-color: #6d7e9a;
+  color: white;
+}
+.btn-logged:hover {
+  background-color: #e1b393;
+  border-color: #e1b393;
+  color: white;
+}
+
+.btn-logged:active {
+  background-color: #e3946e;
+  border-color: #e3946e;
+  color: white;
+}
+
+.btn-logged:focus {
+  background-color: #846b9f;
+  border-color: #846b9f;
+  color: white;
+}
